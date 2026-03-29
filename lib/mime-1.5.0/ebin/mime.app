@@ -1,0 +1,10 @@
+{application,mime,
+             [{config_mtime,1774586915},
+              {optional_applications,[]},
+              {applications,[kernel,stdlib,elixir,logger]},
+              {description,"A MIME type module for Elixir"},
+              {modules,['Elixir.MIME','Elixir.MIME.Application']},
+              {registered,[]},
+              {vsn,"1.5.0"},
+              {mod,{'Elixir.MIME.Application',[]}},
+              {env,[{types,#{}}]}]}.
