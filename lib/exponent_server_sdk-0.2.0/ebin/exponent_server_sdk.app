@@ -1,0 +1,11 @@
+{application,exponent_server_sdk,
+             [{config_mtime,1774586914},
+              {optional_applications,[]},
+              {applications,[kernel,stdlib,elixir,logger,httpoison,poison]},
+              {description,"Exponent Push Notification API library for Elixir"},
+              {modules,['Elixir.ExponentServerSdk',
+                        'Elixir.ExponentServerSdk.Parser',
+                        'Elixir.ExponentServerSdk.PushMessage',
+                        'Elixir.ExponentServerSdk.PushNotification']},
+              {registered,[]},
+              {vsn,"0.2.0"}]}.
