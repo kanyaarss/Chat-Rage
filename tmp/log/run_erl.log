@@ -1,0 +1,8 @@
+run_erl [1082505] Sat Mar 28 13:25:00 2026
+Args before exec of shell:
+run_erl [1082505] Sat Mar 28 13:25:00 2026
+argv[0] = sh
+run_erl [1082505] Sat Mar 28 13:25:00 2026
+argv[1] = -c
+run_erl [1082505] Sat Mar 28 13:25:00 2026
+argv[2] =  /var/www/livechat\.kanyaars\.cloud/_build/prod/rel/dk168/releases/0\.1\.0/\.\./\.\./erts-13\.2\.2\.5/bin/erl -noshell -s elixir start_cli -mode embedded -setcookie 346OWDQCHNYGG2KY7QCFRGJO6FHKVC5HFNEPN2DAYT25U37QC76A\=\=\=\= -sname dk168 -config /var/www/livechat\.kanyaars\.cloud/_build/prod/rel/dk168/releases/0\.1\.0/sys -boot /var/www/livechat\.kanyaars\.cloud/_build/prod/rel/dk168/releases/0\.1\.0/start -boot_var RELEASE_LIB /var/www/livechat\.kanyaars\.cloud/_build/prod/rel/dk168/lib -args_file /var/www/livechat\.kanyaars\.cloud/_build/prod/rel/dk168/releases/0\.1\.0/vm\.args -extra --no-halt
